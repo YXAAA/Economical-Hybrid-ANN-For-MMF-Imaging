@@ -1,0 +1,5 @@
+data set for MMF imaging*:
+http://researchdata.gla.ac.uk/751/
+*Caramazza P, Moran O, Murray-Smith R, et al. Transmission of natural scene images through a multimode fibre[J]. Nature communications, 2019, 10(1): 1-6.
+
+data set for MMF imaging simulation：https://www.kaggle.com/akash2sharma/tiny-imagenet
